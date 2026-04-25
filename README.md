@@ -9,3 +9,7 @@ The project combines education, entertainment, and digital literacy into one eng
 # Purpose of the Application
 
 The primary purpose of **Life Hack or Urban Myth?** is to help users make informed decisions when encountering viral life hacks online. The app encourages scepticism, evidence-based reasoning, and practical thinking.
+
+#References 
+https://chatgpt.com/share/69ed384e-c948-83ea-b40b-fb07f31086a5
+https://chatgpt.com/share/69ed1948-3fec-83ea-9a79-8fd5699a9359
